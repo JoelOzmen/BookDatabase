@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * A mock implementation of the BooksDBInterface interface to demonstrate how to
+ * An implementation of the BooksDBInterface interface to demonstrate how to
  * use it together with the user interface.
  * Handles the connection with the database
  *
