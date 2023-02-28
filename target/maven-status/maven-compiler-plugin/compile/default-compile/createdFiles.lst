@@ -1,0 +1,10 @@
+model/SearchMode.class
+view/Controller.class
+model/BooksDbInterface.class
+view/BooksPane.class
+model/MockBooksDb.class
+model/Book.class
+com/mycompany/db2/App.class
+view/Controller$1.class
+view/BooksPane$1.class
+com/mycompany/db2/SystemInfo.class
